@@ -1,0 +1,11 @@
+.search{
+    width: 15%;
+    height: 20px;
+    border-radius: 5px;
+    color:black;
+    font-size: 23px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px outset transparent;
+    margin-bottom: 2%;
+
+}
